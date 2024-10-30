@@ -29,7 +29,7 @@ plt.title('Salary vs Experience (Training set)')
 plt.xlabel('Years of Experience')
 plt.ylabel('Salary')
 # plt.show() // uncomment if you are using Google Colab
-plt.savefig('train_set_plot.png')  # Saves the plot as an image file
+plt.savefig('SLR_train_set_plot.png')  # Saves the plot as an image file
 
 
 # Visualising the Test set results
@@ -39,4 +39,4 @@ plt.title('Salary vs Experience (Test set)')
 plt.xlabel('Years of Experience')
 plt.ylabel('Salary')
 # plt.show() // uncomment if you are using Google Colab
-plt.savefig('test_set_plot.png')  # Saves the plot as an image file
+plt.savefig('SLR_test_set_plot.png')  # Saves the plot as an image file
