@@ -4,10 +4,10 @@
 
 
 - Simple Linear Regression
-    1. Importing the libraries
-    2. Importing the dataset
-    3. Splitting the dataset into the Training set and Test set
-    4. Training the Simple Linear Regression model on the Training set
-    5. Predicting the Test set results
-    6. Visualising the Training set results
-    7. Visualising the Test set results
+    - Importing the libraries
+    - Importing the dataset
+    - Splitting the dataset into the Training set and Test set
+    - Training the Simple Linear Regression model on the Training set
+    - Predicting the Test set results
+    - Visualising the Training set results
+    - Visualising the Test set results
