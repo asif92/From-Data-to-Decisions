@@ -29,7 +29,7 @@ plt.title('Tempratue vs Sales (Training set)')
 plt.xlabel('Temprature')
 plt.ylabel('Sales')
 # plt.show() // uncomment if you are using Google Colab
-plt.savefig('output/SLR_train_set_plot_v2.png')  # Saves the plot as an image file
+plt.savefig('output/ice_cream_sales_train_set_plot_v2.png')  # Saves the plot as an image file
 
 
 # Visualising the Test set results
@@ -39,4 +39,8 @@ plt.title('Tempratue vs Sales (Test set)')
 plt.xlabel('Temprature')
 plt.ylabel('Sales')
 # plt.show() // uncomment if you are using Google Colab
-plt.savefig('output/SLR_test_set_plot_v2.png')  # Saves the plot as an image file
+plt.savefig('output/ice_cream_sales_test_set_plot_v2.png')  # Saves the plot as an image file
+
+
+# temprature = input("Enter temprature: ")
+# print(regressor.predict([[temprature]]))
