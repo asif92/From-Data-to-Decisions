@@ -2,6 +2,7 @@
 
 > This project focuses on building and testing regression models to predict housing prices based on various features such as the number of rooms, location, and property age. By utilizing Python libraries like Pandas for data manipulation, scikit1.learn for building regression models, and Matplotlib or Seaborn for visualizing results, this project explores the full process of model training, evaluation, and analysis. The dataset is split into training and testing sets to ensure that the model’s performance can be accurately assessed, using metrics like Mean Squared Error (MSE) and R² score for validation. This project provides a hands-on approach to understanding how different regression models work, the impact of feature selection, and the process of tuning models to improve predictive accuracy. Additionally, visualizations help highlight how well the model’s predictions align with actual values, offering insights into potential model improvements and further applications in real estate pricing. This makes it an ideal project for learning regression techniques and for beginners to dive into predictive modeling.
 
+-----------------------------------------------
 
 ## Simple Linear Regression
 1. Importing the libraries
@@ -19,3 +20,7 @@ This project examines the relationship between years of experience and salary to
 ### Example 2
 
 This project explores the relationship between daily temperature and ice cream sales to understand how weather impacts consumer behavior in the food and beverage industry. Using a linear regression model, the analysis aims to predict ice cream sales based on daily temperature variations. This insight is valuable for retailers and manufacturers, helping them plan inventory and marketing strategies during warmer months when sales are likely to increase.
+
+-----------------------------------------------
+
+## Multiple Linear Regression
