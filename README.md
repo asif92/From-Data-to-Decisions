@@ -24,3 +24,13 @@ This project explores the relationship between daily temperature and ice cream s
 -----------------------------------------------
 
 ## Multiple Linear Regression
+1. Importing the libraries
+2. Importing the dataset
+3. Encoding categorical data
+4. Splitting the dataset into the Training set and Test set
+5. Training the Multiple Linear Regression model on the Training set
+6. Predicting the Test set results
+
+### Example 1
+
+This project implements a multiple linear regression model to help startups predict their profit based on key business factors: R&D spend, administration costs, marketing spend, and state location. By analyzing the impact of each of these variables on profit, this model provides valuable insights into which factors most significantly influence financial outcomes. This information enables startups to make data-driven decisions, optimize resource allocation, and improve profitability. The multiple linear regression approach is particularly suited to this analysis, as it accounts for the combined effects of multiple independent variables on the dependent variable—profit.
