@@ -42,6 +42,8 @@ This project implements a multiple linear regression model to help startups pred
 8. Predicting a new result with Linear Regression
 9. Predicting a new result with Polynomial Regression
 
+> Stay Tuned: Coding Details for this model to be added soon!
+
 ## Support Vector Regression (SVR)
 
 > Stay Tuned: Details for this model to be added soon!
