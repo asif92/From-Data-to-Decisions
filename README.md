@@ -38,3 +38,18 @@ This project implements a multiple linear regression model to help startups pred
 -----------------------------------------------
 
 ## Polynomial Regression
+
+
+
+## Support Vector Regression (SVR)
+
+> Stay Tuned: Details for this model to be added soon!
+
+## Decision Tree Regression
+
+> Stay Tuned: Details for this model to be added soon!
+
+## Random Forest Regression
+
+> Stay Tuned: Details for this model to be added soon!
+
