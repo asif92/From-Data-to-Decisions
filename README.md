@@ -38,8 +38,15 @@ This project implements a multiple linear regression model to help startups pred
 -----------------------------------------------
 
 ## Polynomial Regression
-
-
+1. Importing the libraries
+2. Importing the dataset
+3. Training the Linear Regression model on the whole dataset
+4. Training the Polynomial Regression model on the whole dataset
+5. Visualising the Linear Regression results
+6. Visualising the Polynomial Regression results
+7. Visualising the Polynomial Regression results (for higher resolution and smoother curve)
+8. Predicting a new result with Linear Regression
+9. Predicting a new result with Polynomial Regression
 
 ## Support Vector Regression (SVR)
 
