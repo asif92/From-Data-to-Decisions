@@ -34,3 +34,7 @@ This project explores the relationship between daily temperature and ice cream s
 ### Example 1
 
 This project implements a multiple linear regression model to help startups predict their profit based on key business factors: R&D spend, administration costs, marketing spend, and state location. By analyzing the impact of each of these variables on profit, this model provides valuable insights into which factors most significantly influence financial outcomes. This information enables startups to make data-driven decisions, optimize resource allocation, and improve profitability. The multiple linear regression approach is particularly suited to this analysis, as it accounts for the combined effects of multiple independent variables on the dependent variable—profit.
+
+-----------------------------------------------
+
+## Polynomial Regression
